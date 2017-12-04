@@ -1,0 +1,29 @@
+.img-thumbnail{
+	height:190px;
+	width: 280px;
+	margin-left:50px;
+	margin-bottom:20px;
+}
+
+
+.footer {
+	position:fixed;
+	bottom:0;
+	width: 100%;
+	line-height: 30px;
+	background-color:black;
+	text-align: center;
+	margin-left: 0;
+	font-size: 12px;
+}
+
+.col-md-9{
+	margin-bottom:50px;
+}
+
+.my-picture{
+	height:220px;
+	width:190px;
+	margin:10px;
+}
+
